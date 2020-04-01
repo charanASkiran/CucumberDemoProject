@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TagsRun" project="cucumberproject" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="RunnerPack.TagsRun" time="0.002">
+    <testsuite name="Feature: Title of your feature" time="0.002">
+      <testcase name="search products in demowebshop" classname="Title of your feature" time="0.002"/>
+    </testsuite>
+  </testsuite>
+</testrun>
